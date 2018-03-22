@@ -103,3 +103,165 @@ img {
     color: darkgray;
     width: 600px;
 }
+
+.main2 {
+    position: relative;
+    display: block;
+    top: 17px;
+    width: 779px;
+    left: 47px;
+    margin: 25px;
+    height: 627px;
+    width: 791px;
+    padding: 94px;
+     margin: auto;
+     background-color: white;
+    color: #4aaaa5;
+    margin: 25px;
+    }
+
+    
+    
+
+.project1 {
+    display: block;
+    width: 200px;
+    height:200px;
+    position: absolute;
+
+}
+
+.project1-text {
+    display: block;
+    width: 200px;
+    position: absolute;
+    z-index: 1000;
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    left:50px;
+    top: 254px;
+}
+
+
+.about2 {
+    position: relative;
+    top: -8px;
+    left: 57px;
+    font-size: 18px;
+    color: #4aaaa5;
+    border-bottom:solid 3px darkgray;
+
+}
+
+.project2 {
+    display: block;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+     left: 350;}
+
+.project2-text {
+    display: block;
+    width: 200px;
+    position: absolute;
+    z-index: 1000;
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    left: 50px;
+    top: 254px;
+}
+
+.project3 {
+    display: block;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    right: 172px;}
+
+
+
+ .project3-text {
+    display: block;
+    width: 200px;
+    position: absolute;
+    z-index: 1000;
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    left: 50px;
+    top: 254px;
+    }
+
+.project4 {
+    display: block;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 257px;}
+
+.project4-text {
+    display: block;
+    width: 200px;
+    position: absolute;
+    z-index: 1000;
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    left: 50px;
+    top: 254px;
+    }
+.row2 {
+    position: relative;
+    }
+.project5-text {
+    display: block;
+    width: 200px;
+    position: absolute;
+    z-index: 1000;
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    left: 50px;
+    top: 254px;
+        }    
+.project5 {
+    display: block;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 444px;
+    right: 429px;
+}
+
+.name-entry {
+    position: relative;
+    margin: 20px;
+    font-size: 30px;
+    left: 52px;
+}
+.email-entry {
+    position: relative;
+    margin: 20px;
+    font-size: 30px;
+    left: 52px;
+}
+.message-text {
+    position: relative;
+    margin: 20px;
+    font-size: 30px;
+    left: 52px;
+}
+.formcontainer{
+    width: 977px;
+    display: block;
+    background-color: white;
+    margin: 25px;
+    left: 47px;
+    position: relative;
+}
+.submit-button{
+    position: relative;
+    left: 135px;
+}
